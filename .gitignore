@@ -1,0 +1,12 @@
+# Ảnh gốc PNG (~41MB) và tài liệu đầu vào — giữ ở máy, không đưa lên GitHub/Vercel
+Pre-wedding photos/
+Input/
+
+# Công cụ xem thử cục bộ
+.claude/
+
+# Hệ thống
+Thumbs.db
+desktop.ini
+.DS_Store
+.vercel
